@@ -1,6 +1,6 @@
 NAME: ATHUL SHYAM
 ROLL NO: 38
-CSA 38 
+CSA S8 
                                                         BLOCK CHAIN TECHNOLOGIES ASSIGNMENT 1
 
 Q1. Write a note on distributed hash tables?
